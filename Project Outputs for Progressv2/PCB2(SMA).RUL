@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: E:\Documents\Altium\Projects\IOT_progress_V2\PCB2(SMA).PcbDoc
+DRC Rules Export File for PCB: D:\Sachenkov_altium\IOT_progress_V2\PCB2(SMA).PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87

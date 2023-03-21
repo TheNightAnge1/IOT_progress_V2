@@ -1,12 +1,19 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Progressv2.PrjPcb]
-   Generated File[PCB2(SMA).TXT]
-   Generated File[PCB2(SMA).LDP]
-   Generated File[PCB2(SMA).DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Progressv2.PrjPcb]
+   Generated File[PCB2(SMA).GTO]
+   Generated File[PCB2(SMA).GTS]
+   Generated File[PCB2(SMA).GTL]
+   Generated File[PCB2(SMA).GBL]
+   Generated File[PCB2(SMA).GBS]
+   Generated File[PCB2(SMA).GBO]
+   Generated File[PCB2(SMA).GM1]
+   Generated File[PCB2(SMA).RUL]
+   Generated File[PCB2(SMA).EXTREP]
+   Generated File[PCB2(SMA).REP]
 
 
-Files Generated   : 3
+Files Generated   : 10
 Documents Printed : 0
 
-Finished Output Generation At 10:27:02 On 21.03.2023
+Finished Output Generation At 15:51:12 On 21.03.2023
